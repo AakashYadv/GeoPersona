@@ -1,8 +1,8 @@
 numpy
 pandas
-opencv-python
-torch
-torchvision
+opencv-python-headless==4.8.1.78
+torch==2.2.2
+torchvision==0.17.2
 scikit-learn
 hdbscan
 folium
@@ -10,8 +10,8 @@ streamlit
 fastapi
 uvicorn
 deep_sort_realtime
-lap
+lapx==0.5.5
 matplotlib
 tqdm
 joblib
-ultralytics
+ultralytics==8.1.0
