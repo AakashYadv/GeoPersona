@@ -1,0 +1,17 @@
+numpy
+pandas
+opencv-python
+torch
+torchvision
+scikit-learn
+hdbscan
+folium
+streamlit
+fastapi
+uvicorn
+deep_sort_realtime
+lap
+matplotlib
+tqdm
+joblib
+ultralytics
